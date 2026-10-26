@@ -22,7 +22,7 @@ Ministry of Railway
 - **No install, works offline:** a PWA that opens from a QR code at any pillar and caches the map for weak connectivity.
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](image.png)
 
 ## Use Cases
 
