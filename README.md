@@ -22,7 +22,7 @@ Ministry of Railway
 - **No install, works offline:** a PWA that opens from a QR code at any pillar and caches the map for weak connectivity.
 
 ## Proposed Solution / Architecture Diagram
-<img width="1890" height="1242" alt="RailWayfinder_Architecture" src="https://github.com/user-attachments/assets/d606c702-14d2-4f25-89b6-e2a1730c9c19" />
+
 
 ## Use Cases
 
